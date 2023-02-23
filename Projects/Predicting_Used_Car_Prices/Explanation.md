@@ -1,3 +1,6 @@
+# Data Validation
+
+
 dataset contains **6738 rows** and **9 columns** with missing values before cleaning. I have validated all the columns against the criteria in the dataset table:
 
 **model**: Same as description without missing values, having 18 unique models. No cleaning is needed. Datatype is object.
