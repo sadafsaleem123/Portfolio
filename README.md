@@ -1,2 +1,2 @@
 # Portfolio
-This repository is specially made to showcase my portfolio
+This repository is specifically made to showcase my portfolio
